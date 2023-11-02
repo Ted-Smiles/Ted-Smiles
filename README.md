@@ -60,10 +60,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/allan-1" target="_blank">
+<a href="https://www.linkedin.com/in/edward-smiles-b14472253/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/allan-1" target="_blank">
+<a href="https://github.com/Ted-Smiles" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
