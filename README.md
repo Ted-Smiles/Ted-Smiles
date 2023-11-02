@@ -6,7 +6,9 @@
 ### <div align="center">I'm Edward Smiles, aspiring software developer  👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning Kotlin and Docker  
+- 🌱 I’m currently learning NodeJS and 
+
+- 🔭 I'm complete personal projects in Python and React
   
 
 <br/>  
