@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning NodeJS and 
 
-- 🔭 I'm complete personal projects in Python and React
+- 🔭 I've completed personal projects in Python and React
   
 
 <br/>  
